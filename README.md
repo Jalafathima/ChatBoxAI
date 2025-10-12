@@ -17,7 +17,7 @@
 
 ## Demo
 
-You can see the live demo [here](#https://727623bcs099.neocities.org/ChatBoxAI/public/) (replace with live link if available).
+You can see the live demo([here](#https://727623bcs099.neocities.org/ChatBoxAI/public/)) (replace with live link if available).
 
 ---
 
