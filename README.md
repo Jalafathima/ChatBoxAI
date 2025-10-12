@@ -1,6 +1,4 @@
-Here’s the corrected **README** with active links and proper formatting for your **ChatboxAI** project:
 
----
 
 ## ChatboxAI 🤖
 
@@ -100,8 +98,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
----
-
-✅ Now both your **Demo** and **Screenshot** links are active and clickable.
-
-If you want, I can also **enhance this README** with badges, a more modern look, and a “Getting Started” section for GitHub users. Do you want me to do that?
