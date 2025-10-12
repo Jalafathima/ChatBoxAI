@@ -17,13 +17,13 @@
 
 ## Demo
 
-You can see the live demo [here](#) (replace with live link if available).
+You can see the live demo [here](#https://727623bcs099.neocities.org/ChatBoxAI/public/) (replace with live link if available).
 
 ---
 
 ## Screenshots
 
-![ChatboxAI Screenshot](path/to/screenshot.png)
+![ChatboxAI Screenshot]([path/to/screenshot.png](https://727623bcs099.neocities.org/ChatBoxAI/chat-example.png))
 *Description of the screenshot*
 
 ---
@@ -60,8 +60,6 @@ Follow these steps to run ChatboxAI locally:
    ```bash
    npm start
    ```
-
-   *(or `python app.py` for Python backend)*
 
 4. Open your browser at [http://localhost:3000](http://localhost:3000) (or your configured port).
 
