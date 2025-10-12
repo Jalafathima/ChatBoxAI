@@ -1,3 +1,6 @@
+Here’s the corrected **README** with active links and proper formatting for your **ChatboxAI** project:
+
+---
 
 ## ChatboxAI 🤖
 
@@ -17,14 +20,13 @@
 
 ## Demo
 
-You can see the live demo([here](#https://727623bcs099.neocities.org/ChatBoxAI/public/)) (replace with live link if available).
+You can see the live demo [here](https://727623bcs099.neocities.org/ChatBoxAI/public/)
 
 ---
 
 ## Screenshots
 
-![ChatboxAI Screenshot]([path/to/screenshot.png](https://727623bcs099.neocities.org/ChatBoxAI/chat-example.png))
-*Description of the screenshot*
+![ChatboxAI Screenshot](https://727623bcs099.neocities.org/ChatBoxAI/chat-example.png)
 
 ---
 
@@ -60,6 +62,8 @@ Follow these steps to run ChatboxAI locally:
    ```bash
    npm start
    ```
+
+   *(or `python app.py` for Python backend)*
 
 4. Open your browser at [http://localhost:3000](http://localhost:3000) (or your configured port).
 
@@ -98,3 +102,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+✅ Now both your **Demo** and **Screenshot** links are active and clickable.
+
+If you want, I can also **enhance this README** with badges, a more modern look, and a “Getting Started” section for GitHub users. Do you want me to do that?
